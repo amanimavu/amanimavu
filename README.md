@@ -46,3 +46,16 @@ Here are some ideas to get you started:
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanimavu&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanimavu&layout=compact&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🕸️Find me on:
+<div>
+  <a href="https://twitter.com/amanimavu">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" title="twitter" width="30" height="30" />
+  </a>
+  <span>&nbsp;<span>
+  <a href="https://www.linkedin.com/in/amani-mavu/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30" />
+  </a>
+</div>
