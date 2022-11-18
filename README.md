@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48612327/202705651-1ce44de1-45d4-428f-8c32-4353de08cfb2.png
-" />
+<img src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?t=st=1668773727~exp=1668774327~hmac=b95f1e1520aa53d3f0063cac559ef1a5d74506ed23bc05ec58e6b66abecf85c0">
 ### Hi there 👋
 
 <!--
