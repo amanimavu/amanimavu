@@ -1,4 +1,3 @@
-![https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1668773776~exp=1668774376~hmac=77b78dad8d69e21acd24740d7a8bc4d1c96b7342d4f50d7ae8bfa4727a9128b4]
 ### Hi there 👋
 
 <!--
